@@ -47,7 +47,7 @@ An example can be found [here](https://drive.google.com/file/d/1tDwguNTdByc7N0CN
 ### Install Docker
 
 If you have not installed Docker on your machine. Please follow [official instructions](https://docs.docker.com/engine/install/).
-
+<br><br><br>
 
 
 
@@ -75,7 +75,7 @@ The process will generate a `metadata_processed.csv` and `output_dir` folder in 
 3. Share model weights and results
 
 Please zip these files and share them through storage platforms, e.g. Google Drive and OneDrive.
-
+<br><br><br>
 
 
 
