@@ -51,9 +51,9 @@ If you have not installed Docker on your machine. Please follow [official instru
 
 
 
-=========================================================
+==========================================================================
 
-### 🍻🍻🍻 Run the docker - developing a local retinal age model
+### 🍻🍻🍻 Run the docker - developing a local retinal age model and internal evaluation
 
 
 1. Download the docker
@@ -86,9 +86,9 @@ Please zip `metadata_processed.csv` and `output_dir` folder, and share them thro
 
 
 
-=========================================================
+==========================================================================
 
-### 🍻🍻🍻 Run the docker - external evaluation
+### 🍻🍻🍻 Run the docker - cross-validation
 
 
 1. Download the docker
