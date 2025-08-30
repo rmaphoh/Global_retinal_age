@@ -76,12 +76,12 @@ e.g.`docker run --gpus all -it --shm-size=8g -v /home/retinal_age:/app/Retinal_a
     ├──metadata.csv  
 ``` 
 
-The process will generate a `metadata_processed.csv` and `output_dir` folder in `{Absolute_path}` path.
+The process will generate a `output_dir` folder in `{Absolute_path}` path.
 
 
 3. Share model weights and results
 
-Please zip `metadata_processed.csv` and `output_dir` folder, and share them through storage platforms, e.g. Google Drive and OneDrive.
+Please zip `metadata.csv` and `output_dir` folder, and share them through storage platforms, e.g. Google Drive and OneDrive.
 <br><br><br>
 
 
